@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-srivatsacool/srivatsacool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![githubreadme](https://user-images.githubusercontent.com/76219802/214784756-67fd1ad9-3df6-428f-8618-fbb3c97c777a.svg)
